@@ -38,5 +38,5 @@ Implementar una estrategia completa de marketing digital para:
 📬 **Contacto**
 
 Juan Sebastián Rubiano Romero  
-[LinkedIn](https://www.linkedin.com/in/juan-sebastian-rubiano)  
+[LinkedIn](www.linkedin.com/in/juansrubiano)  
 Portafolio en construcción.
